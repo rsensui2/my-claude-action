@@ -1,0 +1,6 @@
+name: 'Claude Code'
+description: 'GitHub Action for Claude Code'
+author: 'rsensui2'
+runs:
+  using: 'node20'
+  main: 'dist/index.js'
